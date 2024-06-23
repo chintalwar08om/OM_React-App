@@ -16,6 +16,10 @@ This React component (App) integrates with the Solana blockchain using the Solan
 - Solana CLI
 - VITE
 
+
+## Author
+ Om Ramesh Chintalwar.
+
 ## How to Run Project
 
 Type the following commands in your terminal, in your root project folder, to run your project:
